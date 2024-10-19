@@ -47,7 +47,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![Screenshot 2024-10-10 104149](https://github.com/user-attachments/assets/9865a8f0-6145-4fcd-bb65-3fa1688efc0c)
+![Screenshot 2024-10-10 104127](https://github.com/user-attachments/assets/172d87d2-545f-4ad2-b62a-188797237874)
 
 
 
@@ -66,7 +66,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
-![Screenshot 2024-10-10 105202](https://github.com/user-attachments/assets/1a43e266-7834-4c54-ad5c-20cbe1035f82)
+![Screenshot 2024-10-10 104149](https://github.com/user-attachments/assets/ecc6437f-2557-4c69-834c-f0b8ced1fbb2)
 
 
 iv)	Creating the new test cell view
@@ -79,7 +79,7 @@ iv)	Creating the new test cell view
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
 
-![IMG-20241019-WA0011](https://github.com/user-attachments/assets/a6e192b4-bc9d-44a0-9007-ab48f2f1acc4)
+![Screenshot 2024-10-10 105202](https://github.com/user-attachments/assets/d21dc248-e80e-443e-a51c-1d06327c869b)
 
 
  
